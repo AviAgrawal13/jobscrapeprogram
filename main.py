@@ -14,7 +14,7 @@ payload = {
 }
 headers = {
 	"content-type": "application/json",
-	"X-RapidAPI-Key": "a8d4419650msh7397b85e8950129p111a20jsn6505c0588d46",
+	"X-RapidAPI-Key": "personal key here",
 	"X-RapidAPI-Host": "linkedin-jobs-search.p.rapidapi.com"
 }
 
@@ -32,7 +32,7 @@ url = "https://indeed11.p.rapidapi.com/"
 
 headers = {
 	"content-type": "application/json",
-	"X-RapidAPI-Key": "a8d4419650msh7397b85e8950129p111a20jsn6505c0588d46",
+	"X-RapidAPI-Key": "personal key here",
 	"X-RapidAPI-Host": "indeed11.p.rapidapi.com"
 }
 
@@ -58,7 +58,7 @@ payload = {
 }
 headers = {
 	"content-type": "application/json",
-	"X-RapidAPI-Key": "a8d4419650msh7397b85e8950129p111a20jsn6505c0588d46",
+	"X-RapidAPI-Key": "personal key here",
 	"X-RapidAPI-Host": "indeed-search-results-scraper1.p.rapidapi.com"
 }
 
